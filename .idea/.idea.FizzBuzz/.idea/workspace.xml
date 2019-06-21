@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca66a016-ed6e-4a08-aaa5-0fd9dde8eb65" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FizzBuzz/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="60" column="51" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
+              <folding>
+                <marker date="1561124577165" expanded="true" signature="6:196" ph="..." />
+                <marker date="1561124577165" expanded="true" signature="216:5825" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="236:5281" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="282:1214" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="1282:2223" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="1305:1453" ph="/* result file format: ... */" />
+                <marker date="1561124577165" expanded="true" signature="1575:1902" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="1709:1788" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="1958:2142" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="2319:3889" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="2401:3879" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="2431:3791" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="2573:2664" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="2713:3653" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="2984:3631" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="3698:3773" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="3977:5275" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="4135:5233" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="4165:5219" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="4304:4395" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="4444:4873" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="4598:4851" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="4898:4998" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="5068:5143" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="5327:5668" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="5456:5661" ph="{...}" />
+                <marker date="1561124577165" expanded="true" signature="5717:5823" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57010887-BA3F-46F4-8547-B67751974C6D/e6/ca80c8b4/BitConverter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="133" column="23" selection-start-line="133" selection-start-column="23" selection-end-line="133" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7037B00A-C9E0-4992-AC87-A13F47CBCCE9/a6/41714a9b/MemoryPool`1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+              <folding>
+                <marker date="1561038014537" expanded="true" signature="0:309" ph="/* Decompiled with JetBrains decompiler ... */" />
+                <marker date="1561038014537" expanded="true" signature="335:887" ph="{...}" />
+                <marker date="1561038014537" expanded="true" signature="389:885" ph="{...}" />
+                <marker date="1561038014537" expanded="true" signature="528:605" ph="{...}" />
+                <marker date="1561038014537" expanded="true" signature="544:599" ph="{...}" />
+                <marker date="1561038014537" expanded="true" signature="747:827" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7037B00A-C9E0-4992-AC87-A13F47CBCCE9/12/2e9a5b8f/ArrayMemoryPool`1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <marker date="1561038021324" expanded="true" signature="0:314" ph="/* Decompiled with JetBrains decompiler ... */" />
+                <marker date="1561038021324" expanded="true" signature="382:1770" ph="{...}" />
+                <marker date="1561038021324" expanded="true" signature="443:1768" ph="{...}" />
+                <marker date="1561038021324" expanded="true" signature="492:559" ph="{...}" />
+                <marker date="1561038021324" expanded="true" signature="508:553" ph="{...}" />
+                <marker date="1561038021324" expanded="true" signature="636:992" ph="{...}" />
+                <marker date="1561038021324" expanded="true" signature="1052:1064" ph="{...}" />
+                <marker date="1561038021324" expanded="true" signature="1143:1764" ph="{...}" />
+                <marker date="1561038021324" expanded="true" signature="1221:1291" ph="{...}" />
+                <marker date="1561038021324" expanded="true" signature="1322:1551" ph="{...}" />
+                <marker date="1561038021324" expanded="true" signature="1342:1543" ph="{...}" />
+                <marker date="1561038021324" expanded="true" signature="1580:1758" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57010887-BA3F-46F4-8547-B67751974C6D/e6/ca80c8b4/BitConverter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7037B00A-C9E0-4992-AC87-A13F47CBCCE9/12/2e9a5b8f/ArrayMemoryPool`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FizzBuzz/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/194E0FE8-9AF1-49DE-976C-D4B0C49C2C80/f9/1ff36391/BrotliStream.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/194E0FE8-9AF1-49DE-976C-D4B0C49C2C80/5e/fa80f407/BrotliEncoder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7037B00A-C9E0-4992-AC87-A13F47CBCCE9/a6/41714a9b/MemoryPool`1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FizzBuzz/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="667" />
+    <option name="y" value="225" />
+    <option name="width" value="1126" />
+    <option name="height" value="793" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FizzBuzz" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FizzBuzz" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="FizzBuzz" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.FizzBuzz">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzz" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FizzBuzz/bin/Debug/netcoreapp2.2/FizzBuzz.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FizzBuzz" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.FizzBuzz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca66a016-ed6e-4a08-aaa5-0fd9dde8eb65" name="Default Changelist" comment="" />
+      <created>1561035279516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561035279516</updated>
+      <workItem from="1561035284111" duration="19526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19526000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-1" width="1922" height="1061" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" sideWeight="0.49946752" weight="0.32978722" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5005325" side_tool="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Build" sideWeight="0.49946752" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7037B00A-C9E0-4992-AC87-A13F47CBCCE9/a6/41714a9b/MemoryPool`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+          <folding>
+            <marker date="1561038014537" expanded="true" signature="0:309" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1561038014537" expanded="true" signature="335:887" ph="{...}" />
+            <marker date="1561038014537" expanded="true" signature="389:885" ph="{...}" />
+            <marker date="1561038014537" expanded="true" signature="528:605" ph="{...}" />
+            <marker date="1561038014537" expanded="true" signature="544:599" ph="{...}" />
+            <marker date="1561038014537" expanded="true" signature="747:827" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7037B00A-C9E0-4992-AC87-A13F47CBCCE9/12/2e9a5b8f/ArrayMemoryPool`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <marker date="1561038021324" expanded="true" signature="0:314" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1561038021324" expanded="true" signature="382:1770" ph="{...}" />
+            <marker date="1561038021324" expanded="true" signature="443:1768" ph="{...}" />
+            <marker date="1561038021324" expanded="true" signature="492:559" ph="{...}" />
+            <marker date="1561038021324" expanded="true" signature="508:553" ph="{...}" />
+            <marker date="1561038021324" expanded="true" signature="636:992" ph="{...}" />
+            <marker date="1561038021324" expanded="true" signature="1052:1064" ph="{...}" />
+            <marker date="1561038021324" expanded="true" signature="1143:1764" ph="{...}" />
+            <marker date="1561038021324" expanded="true" signature="1221:1291" ph="{...}" />
+            <marker date="1561038021324" expanded="true" signature="1322:1551" ph="{...}" />
+            <marker date="1561038021324" expanded="true" signature="1342:1543" ph="{...}" />
+            <marker date="1561038021324" expanded="true" signature="1580:1758" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/194E0FE8-9AF1-49DE-976C-D4B0C49C2C80/f9/1ff36391/BrotliStream.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9728">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/194E0FE8-9AF1-49DE-976C-D4B0C49C2C80/5e/fa80f407/BrotliEncoder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="160" column="11" selection-start-line="160" selection-start-column="11" selection-end-line="160" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57010887-BA3F-46F4-8547-B67751974C6D/e6/ca80c8b4/BitConverter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="133" column="23" selection-start-line="133" selection-start-column="23" selection-end-line="133" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FizzBuzz/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="60" column="51" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
+          <folding>
+            <marker date="1561124577165" expanded="true" signature="6:196" ph="..." />
+            <marker date="1561124577165" expanded="true" signature="216:5825" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="236:5281" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="282:1214" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="1282:2223" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="1305:1453" ph="/* result file format: ... */" />
+            <marker date="1561124577165" expanded="true" signature="1575:1902" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="1709:1788" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="1958:2142" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="2319:3889" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="2401:3879" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="2431:3791" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="2573:2664" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="2713:3653" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="2984:3631" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="3698:3773" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="3977:5275" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="4135:5233" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="4165:5219" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="4304:4395" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="4444:4873" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="4598:4851" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="4898:4998" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="5068:5143" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="5327:5668" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="5456:5661" ph="{...}" />
+            <marker date="1561124577165" expanded="true" signature="5717:5823" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

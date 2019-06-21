@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.1/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.1/system/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_FizzBuzz.492992970.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.nuget/packages/brotli.net/2.0.4.2/runtimes" t="Include">
+      <e p="linux" t="Include">
+        <e p="native" t="Include">
+          <e p="brolib_x64.so" t="Include" />
+          <e p="brolib_x86.so" t="Include" />
+        </e>
+      </e>
+      <e p="osx" t="Include">
+        <e p="native" t="Include">
+          <e p="brolib_x64.dylib" t="Include" />
+        </e>
+      </e>
+      <e p="win" t="Include">
+        <e p="native" t="Include">
+          <e p="brolib_x64.dll" t="Include" />
+          <e p="brolib_x64.pdb" t="Include" />
+          <e p="brolib_x86.dll" t="Include" />
+          <e p="brolib_x86.pdb" t="Include" />
+        </e>
+      </e>
+    </e>
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="FizzBuzz" t="IncludeRecursive">
+        <e p="FizzBuzz.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="FizzBuzz.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="FizzBuzz.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
